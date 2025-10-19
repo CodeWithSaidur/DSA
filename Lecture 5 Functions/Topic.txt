@@ -1,0 +1,5 @@
+1. What are Function ✓
+2. Parameter & Argument
+3. Functions in Memory
+4. pass by Value and Referance
+
