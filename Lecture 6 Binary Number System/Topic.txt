@@ -1,0 +1,4 @@
+1. Binary Number System ✓
+2. Decimal to Binary Conversion
+3. Binary TO Decimal
+
