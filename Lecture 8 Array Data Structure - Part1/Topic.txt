@@ -1,0 +1,6 @@
+1. Array ✓
+2. Loop in Array ✓
+3. Pass by Reference ✓
+4. Linear Search ✓
+5. Reverse an Array ✓
+ 
