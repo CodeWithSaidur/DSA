@@ -1,0 +1,26 @@
+1. Time & Space Complexity ✓
+    *Time complexity is a measure of how the execution time of an 
+    algorithm scales with the size of its input.
+    *Space complexity is a measure of the amount of memory an algorithm 
+    uses in relation to the size of its input. It accounts for both the
+    space used by the input and any extra memory (auxiliary space) needed 
+    during execution.
+
+2. BigO Notation / Upper Bound
+    Big O is a notation used in computer science to describe an 
+    algorithm's worst-case time or space complexity and how it 
+    scales with input size. It provides an upper bound on the growth 
+    rate of a function, indicating how performance degrades as the 
+    input size (\(n\)) increases, rather than giving an exact runtime
+
+3. How to Calculate BigO 
+    1 Drop Constants
+    2 Drop lower order terms
+    3 Identify the term by groth rate
+    3 Pick the domination tern like n²
+
+4. Common Time Complexities
+    O(1) < O(log n) < O(n) < O(n log n) < O(x²) < O(x³) < O(2^x) < O(n!)
+
+
+
