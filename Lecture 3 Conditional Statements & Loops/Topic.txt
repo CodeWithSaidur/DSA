@@ -1,0 +1,7 @@
+1. Conditional Statement  ✓
+2. Ternart Operator ✓
+3. While Loop ✓
+4. For loop ✓
+5. Do While Loop ✓
+6. Nested Loop ✓
+
