@@ -1,0 +1,16 @@
+1. Memory Address  ✓
+    Address of operator & used to get Address of a Variable
+2. Pointers
+    Pointer is a Variable that used to store the Address of other variables
+3. Pointer to Pointer
+    is a pointer variable that stores the memory address of another pointer variable. 
+4. NULL Pointer
+    a pointer that doesn't point to any valid memory address, indicating it points to "nothing"
+5. Pass by Reference (pointer & alias)
+    a method of passing arguments to a function whaer the functon recive a reference to the original value.
+    achive either *pointer or alias &alias
+6. Array Pointer
+    this is a single pointer variable that points to an entire array.
+7. Pointer Arithmetic
+    
+
