@@ -1,0 +1,13 @@
+1. Binary Search in reai-life
+2. Binary Search Approch
+    1 sort array
+    2 find mid
+    3 compare with terget
+    4 if mid > right side | if mid < left side | if treget == mid its ans
+3. Code for Binary Search (itrative)
+4. Optimization in Code
+5. Time Complexity of Binary Search
+6. Recursive Binary Search 
+7. code for (Recursive)
+
+
